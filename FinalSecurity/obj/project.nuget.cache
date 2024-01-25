@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MHKl/SxnbVNXPdO3If2xU7ReJ472k6aegNT+CrvQtQ98hrObj9fTPBs16GIyGDf6ofErQg8qp6AlhhMQCBaguw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asmaa\\Desktop\\.net track\\FinalSecurity\\FinalSecurity\\FinalSecurity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\asmaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
